@@ -1,0 +1,30 @@
+<resources>
+    !-Botones y texto-!
+    <string name="app_name">Ordinario</string>
+    <string name="criptomonedas">Criptomonedas</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="ethereum">Ethereum</string>
+    <string name="dogecoin">Dogecoin</string>
+    <string name="cardano">Cardano</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="binance">Binance</string>
+    <string name="polkadot">Polkadot</string>
+    <string name="ripple">Ripple</string>
+    <string name="bitbay">BitBay</string>
+    <string name="stellar">Stellar</string>
+
+    !-Botones y texto-!
+
+    !-Texto en otras paginas-!
+    <string name="Info_Bitcoin">El valor del bitcoin actualmente es de 1,013,196.09MXN, su porcentaje de subida es de: +27,802.11 (2.82 %) </string>
+    <string name="Info_Dogecoin">El valor del dogecoin actualmente es de 3.47MXN, su porcentaje de subida es de: +0.03 (0.86 %) </string>
+    <string name="Info_Ethereum">El valor del ethereum actualmente es de 83,589.08MXN, su porcentaje de subida es de: +2,138.21 (2.63 %) </string>
+    <string name="Info_Cardano">El valor del cardano actualmente es de 25.96MXN, su porcentaje de subida es de: +0.58 (2.28 %) </string>
+    <string name="Info_Litecoin">El valor del litecoin actualmente es de 3,185.17MXN, su porcentaje de subida es de: +83.96 (2.71 %) </string>
+    <string name="Info_Binance">El valor del binance actualmente es de 566.27MXN, su porcentaje de bajada es de:  -(1.97 %) </string>
+    <string name="Info_Polkadot">El valor del polkadot actualmente es de 27.70MXN, su porcentaje de subida es de: +(1.76 %) </string>
+    <string name="Info_Ripple">El valor del ripple actualmente es de 0.828MXN, su porcentaje de bajada es de: -(2.79 %) </string>
+    <string name="Info_Bitbay">El valor del bitbay actualmente es de 0.007696MXN, su porcentaje de subida es de: +0.000037 (+0.48%) </string>
+    <string name="Info_Stellar">El valor del stellar actualmente es de 0.2677MXN, su porcentaje de bajada es de: -(1.75 %) </string>
+    !-Texto en otras paginas-!
+</resources>
